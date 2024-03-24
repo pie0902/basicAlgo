@@ -1,4 +1,4 @@
-package array;
+package math;
 
 public class RadixConversion {
     //x 정수

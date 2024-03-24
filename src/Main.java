@@ -1,5 +1,4 @@
-import array.ReverseArraySorting;
-import loop.Pyramid;
+import sorting.ReverseArraySorting;
 
 public class Main {
     public static void main(String[] args) {
