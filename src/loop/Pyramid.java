@@ -1,7 +1,7 @@
 package loop;
 
 public class Pyramid {
-    public void test(){
+    public static void test(){
         String s = "*";
         for(int i = 1; i<=5; i++) {
             for (int j = 5-i; j > 0; j--) {
@@ -13,7 +13,9 @@ public class Pyramid {
             }
             System.out.println();
         }
-
     }
-
+    public static void main(String[] args) {
+        //예시
+        Pyramid.test();
+    }
 }

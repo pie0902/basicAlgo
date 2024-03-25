@@ -1,7 +1,7 @@
 package loop;
 
 public class MultiplicationTable {
-    public void loop(){
+    public static void loop(){
         System.out.print(" ");
         for(int i = 1; i<=9; i++){
             System.out.printf("%4d", i);
@@ -15,5 +15,11 @@ public class MultiplicationTable {
             }
             System.out.println();
         }
+
+    }
+    public static void main(String[] args) {
+        //예시
+
+        MultiplicationTable.loop();
     }
 }

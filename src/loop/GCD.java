@@ -21,4 +21,5 @@ public class GCD {
         int b = 30;
         System.out.println(gcd(a,b));
     }
+
 }
