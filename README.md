@@ -11,6 +11,6 @@
 5. [삼각형 출력](https://github.com/pie0902/basicAlgo/blob/main/src/loop/RightTriangle.java)
 ********************
 ## 수학 알고리즘
-1. [진법 변환](https://github.com/pie0902/basicAlgo/blob/main/src/math/RadixConversion.java)
+1. [진법변환](https://github.com/pie0902/basicAlgo/blob/main/src/math/RadixConversion.java)
 ********************
-1. [역순 정렬](https://github.com/pie0902/basicAlgo/blob/main/src/sorting/ReverseArraySorting.java)
+1. [역순정렬](https://github.com/pie0902/basicAlgo/blob/main/src/sorting/ReverseArraySorting.java)
