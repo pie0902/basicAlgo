@@ -1,6 +1,7 @@
 # basicAlgo
 ## 배열 알고리즘
-1. [선형검색](https://github.com/pie0902/basicAlgo/blob/main/src/array/LinearSearch.java)
+1. [선형탐색](https://github.com/pie0902/basicAlgo/blob/main/src/array/LinearSearch.java)
+2. [이진탐색](https://github.com/pie0902/basicAlgo/blob/main/src/array/BinarySearch.java)
 ## 반복 알고리즘
 1. [최대공약수](https://github.com/pie0902/basicAlgo/blob/main/src/loop/GCD.java)
 2. [곱셈표 출력](https://github.com/pie0902/basicAlgo/blob/main/src/loop/MultiplicationTable.java)
