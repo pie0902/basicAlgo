@@ -27,7 +27,5 @@ public class 학생점수관리 {
             int score = note.get(printName);
             System.out.println(printName +": "+score);
         }
-
-
     }
 }
